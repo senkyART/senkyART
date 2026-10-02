@@ -38,12 +38,6 @@ Full-stack developer & DevOps enthusiast, mixing in AI/ML — Software Engineeri
 ### 🧳 LibertIa
 AI-assisted travel planning platform — MERN stack + RAG. Final-year engineering project (PFA).
 
-### 🖼️ MrcLens
-Computer vision model — EfficientNetV2-S fine-tuned with PEFT/LoRA, exported to ONNX, served via FastAPI.
-
-### 🏛️ monuments-rag
-RAG environment for monument Q&A — FastAPI + ChromaDB + PostgreSQL.
-
 ### 🤖 fluxo-support-agent
 AI customer support agent — NestJS + React + LangGraph + Azure OpenAI.
 
